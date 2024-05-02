@@ -1,21 +1,21 @@
 [
   {
     "name": "Samsung Galaxy",
-    "model" : "S",
+    "model": "S",
     "version": ["S24", "S24 +", "S24 Ultra", "S24 FE", "S23", "S23 +", "S23 Ultra", "S23 FE"],
-    "configuration": ["8GB | 256GB", "12GB | 512GB"]
+    "configuration": ["8GB 256GB", "12GB 512GB"]
   },
   {
     "name": "Samsung Galaxy",
-    "model" : "Z",
+    "model": "Z",
     "version": ["Z Flip5", "Z Flip4", "Z Fold5", "Z Fold5"],
-    "configuration": ["8GB | 256GB", "12GB | 512GB"]
+    "configuration": ["8GB 256GB", "12GB 512GB"]
     }
   },
   {
     "name": "Samsung Galaxy",
-    "model" : "A",
+    "model": "A",
     "version": ["A54", "A55", "A34", "A35"],
-    "configuration": ["8GB | 128GB", "8GB | 256GB"]
+    "configuration": ["8GB 128GB", "8GB 256GB"]
   }
 ]
