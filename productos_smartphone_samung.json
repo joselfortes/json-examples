@@ -3,21 +3,24 @@
     "name": "Samsung Galaxy",
     "model": "S24",
     "description": "El smartphone pequeño. Disfruta de un smartphone compacto, aprende a apreciar las curvas.",
-    "version": "8GB | 256GB" - "12GB | 512GB",
-    "price": "800/900 €"
+    "version": "8GB | 256GB - 12GB | 512GB",
+    "price": "800/900 €",
+    "image": "/images/Galaxy_s24.jpg"
   },
   {
     "name": "Samsung Galaxy",
     "model": "S24 plus",
     "description": "El smartphone mediano. Grande. Más grande. Y más rápido.",
-    "version": "8GB | 256GB" - "12GB | 512GB",
-    "price": "1000/1100 €"
+    "version": "8GB | 256GB - 12GB | 512GB",
+    "price": "1000/1100 €",
+    "image": "/images/Galaxy_s24+.jpg"
   },
   {
     "name": "Samsung Galaxy",
     "model": "S24 Ultra",
     "description": "El smartphone mediano. Grande. Más grande. Y más rápido.",
-    "version": "12GB | 512GB" - "12GB | 1TB",
-    "price": "1300/1400 €"
+    "version": "12GB | 512GB - 12GB | 1TB",
+    "price": "1300/1400 €",
+    "image": "/images/Galaxy_s24ultra.jpg"
   }
 ]
