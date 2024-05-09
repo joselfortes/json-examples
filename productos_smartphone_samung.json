@@ -22,5 +22,37 @@
     "version": "12GB | 512GB - 12GB | 1TB",
     "price": "1300/1400 €",
     "image": "/images/Galaxy_s24ultra.jpg"
+  },
+  {
+    "name": "Samsung Galaxy",
+    "model": "Z Fold5",
+    "description": "El smartphone plegable tipo libro. Grande. Más espacio, más productivo.",
+    "version": "12GB | 512GB - 12GB | 1TB",
+    "price": "2000/2150 €",
+    "image": "/images/Galaxy_zfold5.jpg"
+  },
+  {
+    "name": "Samsung Galaxy",
+    "model": "Z Flip5",
+    "description": "El smartphone plegable tipo concha. Grande. Más compacto, más diseño",
+    "version": "8GB | 256GB - 12GB | 512GB",
+    "price": "1200/1300 €",
+    "image": "/images/Galaxy_zflip5.jpg"
+  },
+  {
+    "name": "Samsung Galaxy",
+    "model": "A55",
+    "description": "El smartphone gama media. Diseño y sencillez",
+    "version": "8GB | 256GB - 12GB | 512GB",
+    "price": "500/600 €",
+    "image": "/images/Galaxy_a55.jpg"
+  },
+  {
+    "name": "Samsung Galaxy",
+    "model": "A35",
+    "description": "El smartphone gama media. Diseño y sencillez",
+    "version": "8GB | 256GB - 12GB | 512GB",
+    "price": "400/500 €",
+    "image": "/images/Galaxy_a35.jpg"
   }
 ]
